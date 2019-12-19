@@ -7,13 +7,9 @@
 <repository>
 <id>nexus</id>
 <name>maven-releases</name>
-<url>http://localhost:8081/repository/maven-releases/</url>
+<url>http://localhost:8081/repository/maven-proxy-test/</url>
 </repository>
-<snapshotRepository>
-<id>nexus</id>
-<name>maven-snapshots</name>
-<url>http://localhost:8081/repository/maven-snapshots/</url>
-</snapshotRepository>
+
 </distributionManagement>
 
 <dependencies>
