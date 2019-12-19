@@ -10,11 +10,6 @@
 <name>maven-releases</name>
 <url>http://localhost:8081/repository/maven-releases/</url>
 </repository>
-<snapshotRepository>
-<id>maven-snapshot</id>
-<name>maven-snapshot</name>
-<url>http://localhost:8081/repository/maven-snapshot/</url>
-</snapshotRepository>
 </distributionManagement>
 
 <dependencies>
