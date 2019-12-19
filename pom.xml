@@ -6,8 +6,8 @@
 <version>1.0</version>
 <distributionManagement>
 <repository>
-<id>maven-release</id>
-<name>maven-release</name>
+<id>maven-releases</id>
+<name>maven-releases</name>
 <url>http://localhost:8081/repository/maven-releases/</url>
 </repository>
 <snapshotRepository>
